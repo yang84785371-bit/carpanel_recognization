@@ -22,4 +22,7 @@ This project implements a license plate recognition (LPR) system designed to rec
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/carpanel_recognition.git
-
+   ```
+## outcome
+![](https://github.com/yang84785371-bit/carpanel_recognization/blob/main/outcome/70e255669f99f78a1dc89eb84bf41e45.png)
+![](outcome/carpanel2.jpg)
